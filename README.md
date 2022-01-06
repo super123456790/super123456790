@@ -1,5 +1,5 @@
 --troll script
--- screengui
+--screengui
 local ScreenGui = Instance.new("ScreenGui")
 local background = Instance.new("Frame")
 local TextButton = Instance.new("TextButton")
