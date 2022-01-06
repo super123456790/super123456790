@@ -1,12 +1,12 @@
 --troll script
--- screengui
+--screengui
 local ScreenGui = Instance.new("ScreenGui")
 local background = Instance.new("Frame")
 local TextButton = Instance.new("TextButton")
 
 --script
 
-ScreenGui.Parent = game.StarterGui
+ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 background.Name = "background"
