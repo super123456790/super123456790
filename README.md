@@ -13,7 +13,7 @@ background.Name = "background"
 background.Parent = ScreenGui
 background.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 background.BorderSizePixel = 0
-background.Size = UDim2.new(0, 1410, 0, 678)
+background.Size = UDim2.new(1,0, 1,0)
 background.Style = Enum.FrameStyle.RobloxRound
 
 TextButton.Parent = background
